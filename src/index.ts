@@ -10,3 +10,7 @@ console.log("isShow = ", isShow);
 
 let createDate = undefined;
 console.log("Create Date = ", createDate);
+
+let createDate = new Date();
+console.log("Create Date = ", createDate);
+
